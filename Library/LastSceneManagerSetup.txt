@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Welch_Jessica_DIG3480_Challenge1.unity
+  isLoaded: 1
+  isActive: 1
